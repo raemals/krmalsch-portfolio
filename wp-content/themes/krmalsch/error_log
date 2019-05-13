@@ -1,0 +1,16 @@
+[11-Apr-2018 14:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/krmalsch/public_html/wp-content/themes/krmalsch/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/krmalsch/public_html/wp-content/themes/krmalsch/404.php on line 10
+[11-Apr-2018 14:40:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/krmalsch/public_html/wp-content/themes/krmalsch/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/krmalsch/public_html/wp-content/themes/krmalsch/404.php on line 10
+[12-Apr-2018 17:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/krmalsch/public_html/wp-content/themes/krmalsch/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/krmalsch/public_html/wp-content/themes/krmalsch/archive.php on line 10
+[12-Apr-2018 17:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/krmalsch/public_html/wp-content/themes/krmalsch/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/krmalsch/public_html/wp-content/themes/krmalsch/archive.php on line 10

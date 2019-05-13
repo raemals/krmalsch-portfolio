@@ -1,0 +1,5 @@
+[30-Jan-2019 16:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/krmalsch/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home1/krmalsch/public_html/wp-content/plugins/hello.php on line 60
+[05-Apr-2019 13:37:18 UTC] PHP Fatal error:  Call to undefined function add_action() in /home1/krmalsch/public_html/wp-content/plugins/hello.php on line 60
