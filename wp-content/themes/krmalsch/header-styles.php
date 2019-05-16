@@ -33,7 +33,7 @@
 <header id="masthead" class="site-header" role="banner">
         <nav class="navbar navbar-expand-md navbar-dark">
             <div class="container">
-            <a class="navbar-brand">KM</a>
+            <a class="navbar-brand">RM</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbar-custom" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -48,6 +48,9 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#sitecreative">Site Creative</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#packaging">packaging</a>
                 </li>
                 </ul>
             </div>

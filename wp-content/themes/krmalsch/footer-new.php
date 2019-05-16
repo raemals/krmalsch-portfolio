@@ -15,11 +15,13 @@
 
 	<footer id="colophon" class="site-footer">
     <div class="gallery-prefooter">
-    <img src="http://krmalsch.com/wp-content/uploads/2018/02/in-the-wild-prefooter.jpg"/>
+    <img src="http://krmalsch.com/wp-content/uploads/2019/01/krmalsch-prefooter.jpg"/>
     <div class="gallery-prefooter-content">
             <div class="col-sm-12">
-            <h2>Hej s&aring; l&auml;nge</h2>
-                <p>Goodbye for now</p>
+            <h2>adj&#214;</h2>
+                <p>Goodbye for now. Contact me &#64;</p>
+                <p style="font-size: 16px;
+    margin-top: 10px;"><i class="fas fa-envelope"></i> malschrae@gmail.com        |        <i class="fas fa-phone"></i> 262.880.3258</p>
             </div>
     </div>
 	</div>

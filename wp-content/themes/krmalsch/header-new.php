@@ -49,7 +49,7 @@
                <span class="icon-bar"></span>
                <span class="icon-bar"></span>
              </button>
-             <div class="navbar-brand"><p>KM</p></div>
+             <div class="navbar-brand"><p>RM</p></div>
            </div>
 
            <!-- Collect the nav links, forms, and other content for toggling -->

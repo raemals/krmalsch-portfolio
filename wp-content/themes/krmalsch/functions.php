@@ -17,7 +17,7 @@ if ( ! function_exists( 'krmalsch_setup' ) ) :
 	 */
 
 	function EnqueueMyStyles() {
-		wp_enqueue_style('my-custom-style', get_template_directory_uri() . '/dist/css/krmalsch.min.css', false, '20150320');
+		wp_enqueue_style('my-custom-style', get_template_directory_uri() . '/dist/css/krmalsch.css', false, '20150320');
 	
 		wp_enqueue_style('my-main-style', get_stylesheet_uri(), false, '20150320');
 		

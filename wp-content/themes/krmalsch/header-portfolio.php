@@ -36,7 +36,7 @@
         <div class="header-wrap plr30">
             <div class="theta-logo">
                 <div class="theta-logo-text">
-                    <span class="blog-name">KM</span>
+                    <span class="blog-name">RM</span>
                 </div>
             </div>
 

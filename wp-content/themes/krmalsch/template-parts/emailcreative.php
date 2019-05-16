@@ -52,9 +52,9 @@
 
 <!-- Trigger modal -->
 <div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated fadeInDown">
-    <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-mens-block.jpg">
+    <img src="http://krmalsch.com/wp-content/uploads/2019/02/190218-SpringBreakOutfits-block.jpg">
     <a href="#" class="media-description" data-toggle="modal" data-target="#emailModalTwo">
-        <p>Mens Wardrobe</p>
+        <p>Spring Break Outfits</p>
     </a>
 </div>
 
@@ -66,13 +66,15 @@
                 </button>
                 <div class="modal-body">
                 <div class="row">
-                    <div class="col-md-2 col-sm-2">
+                    <div class="col-md-6 col-sm-6">
+                    <img src="http://krmalsch.com/wp-content/uploads/2019/02/190218_Style_SpringBreakOutfits.jpg">
+                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2019/02/190218_Style_SpringBreakOutfits.jpg" download><i class="fas fa-download"></i></a>
                     </div>
-                    <div class="col-md-8 col-sm-8">
-                        <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-mens.jpg">
-                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/bonton-mens.jpg" download><i class="fas fa-download"></i></a>
+                    <div class="col-md-1 col-sm-1">
                     </div>
-                    <div class="col-md-2 col-sm-2">
+                    <div class="col-md-5 col-sm-5">
+                    <img src="http://krmalsch.com/wp-content/uploads/2019/02/190218-hero-animated.gif">
+                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2019/02/190218-hero-animated.gif" download><i class="fas fa-download"></i></a>
                     </div>
                 </div>
             </div>
@@ -82,9 +84,9 @@
 
 <!-- Trigger modal -->
 <div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInRight">
-    <img src="http://krmalsch.com/wp-content/uploads/2018/02/kohls-swim-block.jpg">
+    <img src="http://krmalsch.com/wp-content/uploads/2019/02/190318_Fitness_ColorStory_Purple-block.jpg">
     <a href="#" class="media-description" data-toggle="modal" data-target="#emailModalThree">
-        <p>Spring Swim</p>
+        <p>Purple color story</p>
     </a>
 </div>
 
@@ -99,8 +101,8 @@
                     <div class="col-md-2 col-sm-2">
                     </div>
                     <div class="col-md-8 col-sm-8">
-                        <img src="http://krmalsch.com/wp-content/uploads/2018/02/kohls-swim.jpg">
-                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/kohls-swim.jpg" download><i class="fas fa-download"></i></a>
+                        <img src="http://krmalsch.com/wp-content/uploads/2019/02/190318_Fitness_ColorStory_Purple.jpg">
+                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2019/02/190318_Fitness_ColorStory_Purple.jpg" download><i class="fas fa-download"></i></a>
                     </div>
                     <div class="col-md-2 col-sm-2">
                     </div>
@@ -113,9 +115,9 @@
 
 <!-- Trigger modal -->
 <div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInLeft">
-    <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-beautyweek-block.jpg">
+    <img src="http://krmalsch.com/wp-content/uploads/2019/02/190225_Style_SpringAccessories-block.jpg">
     <a href="#" class="media-description" data-toggle="modal" data-target="#emailModalFour">
-        <p>Beauty Week</p>
+        <p>Spring accessories</p>
     </a>
 </div>
 
@@ -130,12 +132,14 @@
                     <div class="col-md-2 col-sm-2">
                     </div>
                     <div class="col-md-8 col-sm-8">
-                        <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-beautyweek.jpg">
-                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/bonton-beautyweek.jpg" download><i class="fas fa-download"></i></a>
+                    <img src="http://krmalsch.com/wp-content/uploads/2019/02/190225_Style_SpringAccessories.jpg">
+                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2019/02/190225_Style_SpringAccessories.jpg" download><i class="fas fa-download"></i></a>
                     </div>
                     <div class="col-md-2 col-sm-2">
                     </div>
+    
                 </div>
+
             </div>
         </div>
     </div>
@@ -206,9 +210,9 @@
 
 <!-- Trigger modal -->
 <div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInLeft">
-    <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-newnow-block.jpg">
+    <img src="http://krmalsch.com/wp-content/uploads/2019/02/190405_Fitness_TrendStory_Camo-block.jpg">
     <a href="#" class="media-description" data-toggle="modal" data-target="#emailModalSeven">
-        <p>New &amp; Now</p>
+        <p>all about camo</p>
     </a>
 </div>
 
@@ -223,8 +227,8 @@
                     <div class="col-md-2 col-sm-2">
                     </div>
                     <div class="col-md-8 col-sm-8">
-                        <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-newnow.jpg">
-                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/bonton-newnow.jpg" download><i class="fas fa-download"></i></a>
+                        <img src="http://krmalsch.com/wp-content/uploads/2019/02/190405_Fitness_TrendStory_Camo.jpg">
+                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2019/02/190405_Fitness_TrendStory_Camo.jpg" download><i class="fas fa-download"></i></a>
                     </div>
                     <div class="col-md-2 col-sm-2">
                     </div>
@@ -268,9 +272,9 @@
 
 <!-- Trigger modal -->
 <div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInRight">
-    <img src="http://krmalsch.com/wp-content/uploads/2018/02/kohls_momsday-block.jpg">
+    <img src="http://krmalsch.com/wp-content/uploads/2019/02/190320_Style_FloralTops&Dresses-block.jpg">
     <a href="#" class="media-description" data-toggle="modal" data-target="#emailModalNine">
-        <p>Mothers Day</p>
+        <p>Florals</p>
     </a>
 </div>
 
@@ -285,8 +289,8 @@
                     <div class="col-md-2 col-sm-2">
                     </div>
                     <div class="col-md-8 col-sm-8">
-                        <img src="http://krmalsch.com/wp-content/uploads/2018/02/kohls_momsday.jpg">
-                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/kohls_momsday.jpg" download><i class="fas fa-download"></i></a>
+                        <img src="http://krmalsch.com/wp-content/uploads/2019/02/190320_Style_FloralTops&Dresses.jpg">
+                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2019/02/190320_Style_FloralTops&Dresses.jpg" download><i class="fas fa-download"></i></a>
                     </div>
                     <div class="col-md-2 col-sm-2">
                     </div>
@@ -329,9 +333,9 @@
 
 <!-- Trigger modal -->
 <div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInUp">
-    <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-goodwill-block.jpg">
+    <img src="http://krmalsch.com/wp-content/uploads/2019/02/1904010_Credits-Expiring-block.jpg">
     <a href="#"  class="media-description" data-toggle="modal" data-target="#emailModalEleven">
-        <p>Goodwil Sale Impact</p>
+        <p>get styled</p>
     </a>
 </div>
 
@@ -346,8 +350,8 @@
                     <div class="col-md-2 col-sm-2">
                     </div>
                     <div class="col-md-8 col-sm-8">
-                        <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-goodwill.jpg">
-                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/bonton-goodwill.jpg" download><i class="fas fa-download"></i></a>
+                        <img src="http://krmalsch.com/wp-content/uploads/2019/02/1904010_Credits-Expiring.gif">
+                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2019/02/1904010_Credits-Expiring.gif" download><i class="fas fa-download"></i></a>
                     </div>
                     <div class="col-md-2 col-sm-2">
                     </div>

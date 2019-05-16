@@ -11,7 +11,7 @@
 get_header('styles'); ?>
 
 <div class="header-banner">
-    <img src="http://krmalsch.com/wp-content/uploads/2018/02/in-the-wild-banner.jpg"/>
+    <img src="http://krmalsch.com/wp-content/uploads/2019/01/krmalsch-banner2.jpg"/>
     <div class="container animated fadeInDown">
         <h1>V&auml;lkommen!</h1>        
         <p>Hello. Welcome to my portfolio!</p>             
@@ -34,7 +34,7 @@ get_header('styles'); ?>
 <div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInLeft">
     <img src="http://krmalsch.com/wp-content/uploads/2018/02/denim-block.jpg">
     <a href="#" class="media-description" data-toggle="modal" data-target="#webModalOne">
-        <p>Denim Fit Guide</p>
+        <p>kohls Denim Fit Guide</p>
     </a>
 </div>
 <!-- Modal -->
@@ -80,7 +80,7 @@ get_header('styles'); ?>
 <div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated fadeInDown">
     <img src="http://krmalsch.com/wp-content/uploads/2018/02/studentlife-block.jpg">
     <a href="#"  class="media-description" data-toggle="modal" data-target="#webModalTwo">
-        <p>Student Life</p>
+        <p>UWM Student Life</p>
     </a>
 </div>
 
@@ -180,13 +180,9 @@ get_header('styles'); ?>
                 <div class="col-md-1 col-sm-1">
                 </div>
                 <div class="col-md-5 col-sm-5">
-                    <p>prototype</p>
+                    <p>live site</p>
                     <img src="http://krmalsch.com/wp-content/uploads/2018/03/visit-prototype.jpg">
-                    <div class="double-links">
-                    <ul>
-                        <li><a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/03/visit-prototype.jpg" download><i class="fas fa-download"></i></a> </li> <li><a class="modal-link" href="http://uwm.edu/lp/illinois-students/" target="_blank"><i class="fas fa-external-link-alt"></i></a></li>
-                    </ul>
-                    </div>
+                    <a class="modal-link" href="http://uwm.edu/lp/illinois-students/" target="_blank"><i class="fas fa-external-link-alt"></i></a>
                 </div>
             </div> <!-- end row -->
             </div> <!-- end modal body -->
@@ -199,7 +195,7 @@ get_header('styles'); ?>
 <div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInLeft">
     <img src="http://krmalsch.com/wp-content/uploads/2018/02/lovestyle-block.jpg">
     <a href="#" class="media-description" data-toggle="modal" data-target="#webModalFour">
-        <p>LOVESTYLE blog</p>
+        <p>bon-ton LOVESTYLE blog</p>
     </a>
 </div>
 
@@ -243,7 +239,7 @@ get_header('styles'); ?>
 <div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInUp">
     <img src="http://krmalsch.com/wp-content/uploads/2018/02/elle-block.jpg">
     <a href="#" class="media-description" data-toggle="modal" data-target="#webModalFive">
-        <p>Elle Brand Spotlight</p>
+        <p>Kohls Elle Spotlight</p>
     </a>
 </div>
 
@@ -280,7 +276,7 @@ get_header('styles'); ?>
 <div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInRight">
     <img src="http://krmalsch.com/wp-content/uploads/2018/02/csi-block.jpg">
     <a href="#" class="media-description" data-toggle="modal" data-target="#webModalSix">
-        <p>Connected systems institute</p>
+        <p>UWM CSI</p>
     </a>
 </div>
 
@@ -308,11 +304,7 @@ get_header('styles'); ?>
                 <div class="col-md-5 col-sm-5">
                     <p>prototype</p>
                     <img src="http://krmalsch.com/wp-content/uploads/2018/02/csi-prototype.jpg">
-                    <div class="double-links">
-                    <ul>
-                        <li><a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/csi-prototype.jpg" download><i class="fas fa-download"></i></a> </li> <li><a class="modal-link" href="http://uwm.edu/csi" target="_blank"><i class="fas fa-external-link-alt"></i></a></li>
-                    </ul>
-                    </div>
+                        <a class="modal-link" href="http://uwm.edu/csi" target="_blank"><i class="fas fa-external-link-alt"></i></a>
                 </div>
             </div> <!-- end row -->
             </div> <!-- end modal body -->
@@ -328,5 +320,6 @@ get_header('styles'); ?>
 
 <?php get_template_part( 'template-parts/emailcreative'); ?>
 <?php get_template_part( 'template-parts/sitecreative'); ?>
+<?php get_template_part( 'template-parts/packaging'); ?>
 
 <?php get_footer('new'); ?>

@@ -211,27 +211,31 @@
 
 <!-- Trigger modal -->
 <div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInLeft">
-    <img src="http://krmalsch.com/wp-content/uploads/2018/02/lovestyle-measure-block.jpg">
-    <a href="#" class="media-description" data-toggle="modal" data-target="#siteModalSeven">
-        <p>how to measure</p>
+    <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-2015-block.jpg">
+    <a href="#" class="media-description" data-toggle="modal" data-target="#siteModalTen">
+        <p>womens fashion 2015</p>
     </a>
 </div>
 
 <!-- Modal -->
-<div class="modal" id="siteModalSeven" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal" id="siteModalTen" tabindex="-1" role="dialog" aria-hidden="true">
 <div class="modal-dialog" role="document">
         <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
                 </button>
                 <div class="modal-body">
                 <div class="row">
-                    <div class="col-md-2 col-sm-2">
+                    <div class="col-md-4 col-sm-4">
+                    <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-apparel-2015.jpg">
+                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-apparel-2015.jpg" download><i class="fas fa-download"></i></a>
                     </div>
-                    <div class="col-md-8 col-sm-8">
-                        <img src="http://krmalsch.com/wp-content/uploads/2018/02/lovestyle-measure.jpg">
-                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/lovestyle-measure.jpg" download><i class="fas fa-download"></i></a>
+                    <div class="col-md-4 col-sm-4">
+                        <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-shoes-2015.jpg">
+                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-shoes-2015.jpg" download><i class="fas fa-download"></i></a>
                     </div>
-                    <div class="col-md-2 col-sm-2">
+                    <div class="col-md-4 col-sm-4">
+                    <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-accessories-2015.jpg">
+                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-accessories-2015.jpg" download><i class="fas fa-download"></i></a>
                     </div>
                 </div>
             </div>
@@ -301,101 +305,6 @@
     </div>
 </div>
 
-<!-- Trigger modal -->
-<div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInLeft">
-    <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-2015-block.jpg">
-    <a href="#" class="media-description" data-toggle="modal" data-target="#siteModalTen">
-        <p>womens fashion 2015</p>
-    </a>
-</div>
-
-<!-- Modal -->
-<div class="modal" id="siteModalTen" tabindex="-1" role="dialog" aria-hidden="true">
-<div class="modal-dialog" role="document">
-        <div class="modal-content">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
-                </button>
-                <div class="modal-body">
-                <div class="row">
-                    <div class="col-md-4 col-sm-4">
-                    <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-apparel-2015.jpg">
-                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-apparel-2015.jpg" download><i class="fas fa-download"></i></a>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                        <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-shoes-2015.jpg">
-                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-shoes-2015.jpg" download><i class="fas fa-download"></i></a>
-                    </div>
-                    <div class="col-md-4 col-sm-4">
-                    <img src="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-accessories-2015.jpg">
-                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/bonton-fashion-accessories-2015.jpg" download><i class="fas fa-download"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<!-- Trigger modal -->
-<div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInUp">
-    <img src="http://krmalsch.com/wp-content/uploads/2018/02/lovestyle-rollerballs-block.jpg">
-    <a href="#" class="media-description" data-toggle="modal" data-target="#siteModalEleven">
-        <p>rollerball perfume guide</p>
-    </a>
-</div>
-
-<!-- Modal -->
-<div class="modal" id="siteModalEleven" tabindex="-1" role="dialog" aria-hidden="true">
-<div class="modal-dialog" role="document">
-        <div class="modal-content">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
-                </button>
-                <div class="modal-body">
-                <div class="row">
-                    <div class="col-md-2 col-sm-2">
-                    </div>
-                    <div class="col-md-8 col-sm-8">
-                        <img src="http://krmalsch.com/wp-content/uploads/2018/02/lovestyle-rollerballs.jpg">
-                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/lovestyle-rollerballs.jpg" download><i class="fas fa-download"></i></a>
-                    </div>
-                    <div class="col-md-2 col-sm-2">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<!-- Trigger modal -->
-<div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInRight">
-    <img src="http://krmalsch.com/wp-content/uploads/2018/02/lovestyle-concealer-block.jpg">
-    <a href="#" class="media-description" data-toggle="modal" data-target="#siteModalTwelve">
-        <p>concealer guide</p>
-    </a>
-</div>
-
-<!-- Modal -->
-<div class="modal" id="siteModalTwelve" tabindex="-1" role="dialog" aria-hidden="true">
-<div class="modal-dialog" role="document">
-        <div class="modal-content">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
-                </button>
-                <div class="modal-body">
-                <div class="row">
-                    <div class="col-md-2 col-sm-2">
-                    </div>
-                    <div class="col-md-8 col-sm-8">
-                        <img src="http://krmalsch.com/wp-content/uploads/2018/02/lovestyle-concealer.jpg">
-                        <a class="modal-download" href="http://krmalsch.com/wp-content/uploads/2018/02/lovestyle-concealer.jpg" download><i class="fas fa-download"></i></a>
-                    </div>
-                    <div class="col-md-2 col-sm-2">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 
