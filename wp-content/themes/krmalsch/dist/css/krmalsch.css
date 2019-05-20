@@ -436,7 +436,7 @@ li.nav-item a.active {
 
 @media screen and (max-width: 575px) {
   .header-banner .container {
-    top: 8%%;
+    top: 8%;
   }
   .header-banner h1 {
     font-size: 8vw;
@@ -647,6 +647,11 @@ img {
   text-align: center;
 }
 
+.gallery-prefooter .gallery-prefooter-content p span {
+  font-size: 2.3vw;
+  margin-top:10px;
+}
+
 .gallery-prefooter img {
   vertical-align: bottom;
   width: 100%;
@@ -655,6 +660,7 @@ img {
 @media screen and (max-width: 767px) {
   .gallery-prefooter-content {
     bottom: 40%;
+    max-width: 190px;
   }
   .gallery-prefooter .gallery-prefooter-content h2 {
     font-size: 6vw;
@@ -662,15 +668,31 @@ img {
   .gallery-prefooter .gallery-prefooter-content p {
     font-size: 2.9vw;
   }
+  .gallery-prefooter .gallery-prefooter-content p span {
+    font-size: 2.9vw;
+  }
 }
 
 @media screen and (max-width: 575px) {
+  .gallery-prefooter {
+    margin-top: 100px;
+  }
   .gallery-prefooter .gallery-prefooter-content h2 {
     font-size: 8vw;
   }
   .gallery-prefooter .gallery-prefooter-content p {
-    font-size: 3.5vw;
+    font-size: 3.0vw;
   }
+  .gallery-prefooter .gallery-prefooter-content p span {
+    font-size: 2.9vw;
+    margin-top: 15px;
+  }
+  .gray-bkg {
+    padding: 60px 0;
+  }
+  .white-bkg {
+    padding: 60px 0;
+}
 }
 
 /* Modal */
@@ -710,6 +732,8 @@ img {
   color: #fff;
   /* text-align: center; */
   margin-bottom: 10px;
+  text-align: center!important;
+  margin-top: 25px;
 }
 
 .modal-body p span {

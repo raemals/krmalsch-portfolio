@@ -312,6 +312,51 @@ get_header('styles'); ?>
     </div> <!-- end modal dialog -->
 </div> <!-- end modal -->
 
+<!-- Trigger modal -->
+<div class="col-md-4 col-sm-6 col-xs-6 galleryblock animated bounceInRight">
+    <img src="http://krmalsch.com/wp-content/uploads/2019/05/stream-block.jpg">
+    <a href="#" class="media-description" data-toggle="modal" data-target="#webModalSeven">
+        <p>Mobile product design</p>
+    </a>
+</div>
+
+<!-- Modal -->
+<div class="modal" id="webModalSeven" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+            </button>
+            <div class="modal-body">
+            <div class="row">
+                <div class="col-md-3 col-sm-3">
+                    <p>main stream product page</p>
+                    <img src="http://krmalsch.com/wp-content/uploads/2019/05/stream-level-1.png">
+                </div>
+                <div class="col-md-13 col-sm-3">
+                    <p>stream product detail page</p>
+                    <img src="http://krmalsch.com/wp-content/uploads/2019/05/stream-level-2.png">
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                <p>stream product detail page cont.</p>
+                    <img src="http://krmalsch.com/wp-content/uploads/2019/05/stream-level-2a.png">
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <p>stream product detail page cont.</p>
+                    <img src="http://krmalsch.com/wp-content/uploads/2019/05/stream-level-2b.png">
+                </div>
+            </div> <!-- end row -->
+            <div class="row">
+            <div class="col-md-12 col-sm-12">
+            <p style="font-family: oswald, sans-serif;font-weight: 700;text-align:center;margin-top:20px;">INVISION PROTOTYPE</p>
+            <a class="modal-link" href="https://invis.io/VULFCKOTWFM#/304312833_STREAM_-_Home_Copy-1x" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+            </div>
+            </div>
+            </div> <!-- end modal body -->
+        </div> <!-- end modal content -->
+    </div> <!-- end modal dialog -->
+</div> <!-- end modal -->
+
 </div><!-- end row -->
 </div> <!-- end ct_gallery_list -->
 </div> <!-- end white-bkg -->

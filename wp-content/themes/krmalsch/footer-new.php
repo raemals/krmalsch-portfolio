@@ -20,8 +20,7 @@
             <div class="col-sm-12">
             <h2>adj&#214;</h2>
                 <p>Goodbye for now. Contact me &#64;</p>
-                <p style="font-size: 16px;
-    margin-top: 10px;"><i class="fas fa-envelope"></i> malschrae@gmail.com        |        <i class="fas fa-phone"></i> 262.880.3258</p>
+                <p><span><i class="fas fa-envelope"></i> malschrae@gmail.com         <i class="fas fa-phone"></i> 262.880.3258</span></p>
             </div>
     </div>
 	</div>
